@@ -6,5 +6,5 @@ Modificado por Estudiante A
 Modificado por estudiante b
 
 
-README modificado para el tercer conflicto.
+README modificado para el tercer conflicto..
 
