@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Universidad\\MAP\\Grupo09\\Practica4MAP\\Practica4MAP\\Practica4MAP.csproj",
+      "projectUniqueName": "D:\\Universidad\\MAP\\Grupo09\\Practica4MAP\\Practica4MAP.csproj",
       "projectName": "Practica4MAP",
-      "projectPath": "D:\\Universidad\\MAP\\Grupo09\\Practica4MAP\\Practica4MAP\\Practica4MAP.csproj",
+      "projectPath": "D:\\Universidad\\MAP\\Grupo09\\Practica4MAP\\Practica4MAP.csproj",
       "packagesPath": "C:\\Users\\maxri\\.nuget\\packages\\",
-      "outputPath": "D:\\Universidad\\MAP\\Grupo09\\Practica4MAP\\Practica4MAP\\obj\\",
+      "outputPath": "D:\\Universidad\\MAP\\Grupo09\\Practica4MAP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\maxri\\AppData\\Roaming\\NuGet\\NuGet.Config",
