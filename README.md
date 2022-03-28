@@ -10,3 +10,5 @@ README modificado para el tercer conflicto.
 
 
 Nueva funcionalidad añadida: customización de los colores del juego.
+
+Añadida funcionalidad para rotar piezas con el ratón
