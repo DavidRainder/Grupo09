@@ -8,3 +8,5 @@ Modificado por estudiante b
 
 README modificado para el tercer conflicto.
 
+
+Nueva funcionalidad añadida: customización de los colores del juego.
