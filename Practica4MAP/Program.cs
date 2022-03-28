@@ -7,7 +7,7 @@ namespace Practica4MAP
 		static void Main(string[] args)
 		{
 			Console.WriteLine("Hello World!");
-			Console.WriteLine("Estudiante B");
+			Console.WriteLine("Cambio hecho por el Estudiante B");
 		}
 	}
 }

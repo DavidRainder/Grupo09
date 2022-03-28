@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Universidad\\MAP\\Grupo09\\Practica4MAP\\Practica4MAP.csproj": {}
+    "C:\\Universidad\\MAP\\Grupo09\\Practica4MAP\\Practica4MAP.csproj": {}
   },
   "projects": {
-    "D:\\Universidad\\MAP\\Grupo09\\Practica4MAP\\Practica4MAP.csproj": {
+    "C:\\Universidad\\MAP\\Grupo09\\Practica4MAP\\Practica4MAP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Universidad\\MAP\\Grupo09\\Practica4MAP\\Practica4MAP.csproj",
+        "projectUniqueName": "C:\\Universidad\\MAP\\Grupo09\\Practica4MAP\\Practica4MAP.csproj",
         "projectName": "Practica4MAP",
-        "projectPath": "D:\\Universidad\\MAP\\Grupo09\\Practica4MAP\\Practica4MAP.csproj",
-        "packagesPath": "C:\\Users\\maxri\\.nuget\\packages\\",
-        "outputPath": "D:\\Universidad\\MAP\\Grupo09\\Practica4MAP\\obj\\",
+        "projectPath": "C:\\Universidad\\MAP\\Grupo09\\Practica4MAP\\Practica4MAP.csproj",
+        "packagesPath": "C:\\Users\\David Rivera\\.nuget\\packages\\",
+        "outputPath": "C:\\Universidad\\MAP\\Grupo09\\Practica4MAP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\maxri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\David Rivera\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
